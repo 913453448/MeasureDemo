@@ -10,10 +10,6 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
-/**
- * Created by xuekai on 2016/10/26.
- */
-
 public class MeasureView2 extends View {
     private String color_outcircle = "#DEDEDE";
     private String color_bg_outcircle = "#2690F8";
